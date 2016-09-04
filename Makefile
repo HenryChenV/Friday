@@ -9,7 +9,7 @@ help:
 	@echo ""
 
 install:
-	@pip install -r requirements
+	@pip3 install -r requirements
 
 dev:
 	@python3 manage.py

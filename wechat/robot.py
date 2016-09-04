@@ -10,9 +10,9 @@ from settings import WECHAT
 robot = werobot.WeRoBot(token=WECHAT["token"])
 
 
-@robot.handler
+@robot.text
 def echo(message):
-    return deepThought.get_response(message)
+    return deepThought.get_response(message.content)
 
 
 def debug():

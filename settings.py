@@ -4,7 +4,7 @@
 配置文件
 """
 
-DEBUG = False
+DEBUG = True
 
 WECHAT = {
     "token": "chatterbotfriday",

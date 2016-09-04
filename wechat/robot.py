@@ -12,15 +12,16 @@ robot = werobot.WeRoBot(token=WECHAT["token"])
 
 @robot.text
 def echo(message):
-    default_resp = "哎呦，出错了..."
-    resp = None
+    default_reply = "哎呦，出错了..."
+    reply = None
     try:
-        resp = deepThought.get_response(message.content) or default_resp
+        reply = deepThought.get_response(message.content).text or default_reply
     except Exception:
         import traceback
         traceback.print_exc()
+        reply = default_reply
 
-    return resp
+    return reply
 
 
 def debug():

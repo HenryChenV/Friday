@@ -5,7 +5,7 @@
 输入`make`自己看帮助
 
 ## 简介
-基于chatterbot和werobot搭建的微信公众号聊天机器人的后台,  
+基于[chatterbot](https://github.com/gunthercox/ChatterBot)和[werobot](https://github.com/whtsky/WeRoBot)搭建的微信公众号聊天机器人的后台,  
 计划作为自己学习机器学习的入口.  
 该项目打算使用python3作为开发语言.
 
@@ -13,6 +13,9 @@
 [修改类型] 修改描述  
 修改类型: [README], [BUG FIXED], [FEATURE]
 修改描述: 详细说明做了什么
+
+## 参考
+[构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html)
 
 ## TODO
 1. 自己用中文训练聊天机器人 (P1)

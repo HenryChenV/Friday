@@ -16,6 +16,7 @@
 
 ## 参考
 [构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html)
+[deepThought](https://github.com/wwj718/deepThought)
 
 ## TODO
 1. 自己用中文训练聊天机器人 (P1)

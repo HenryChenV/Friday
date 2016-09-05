@@ -5,9 +5,9 @@
 输入`make`自己看帮助
 
 ## 简介
+该项目打算使用python3开发,开始前请先安装python3.
 基于[chatterbot](https://github.com/gunthercox/ChatterBot)和[werobot](https://github.com/whtsky/WeRoBot)搭建的微信公众号聊天机器人的后台,  
 计划作为自己学习机器学习的入口.  
-该项目打算使用python3作为开发语言.
 
 ## 代码提交log规范
 [修改类型] 修改描述  

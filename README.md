@@ -15,7 +15,7 @@
 修改描述: 详细说明做了什么
 
 ## 参考
-[构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html)
+[构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html)  
 [deepThought](https://github.com/wwj718/deepThought)
 
 ## TODO

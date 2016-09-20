@@ -32,7 +32,7 @@ def debug():
     while 1:
         message = input(">>>> ")
         if message in command:
-            command["message"](message)
+            command[message](message)
         print(deepThought.get_response(message))
 
 

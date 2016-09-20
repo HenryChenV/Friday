@@ -4,8 +4,8 @@ help:
 	@echo ""
 	@echo "Help for Friday --- A Chatter Robot"
 	@echo ""
-	@echo "    install        install dependence of project"
-	@echo "    dev            development mode"
+	@echo "    make install        install dependence of project"
+	@echo "    make dev            development mode"
 	@echo ""
 
 install:
